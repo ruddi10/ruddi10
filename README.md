@@ -22,5 +22,8 @@ Here are some ideas to get you started:
 #### Currently an ECE undergrad at IIT-Roorkee and developer at <a href="https://github.com/IMGIITRoorkee">IMG IIT-Roorkee</a>.
 ![Rudraksh's github stats](https://github-readme-stats.vercel.app/api?username=ruddi10&count_private=true&show_icons=true&theme=algolia) <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapriciousRebel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 📫 Connect with me on <a href="https://www.linkedin.com/in/rudraksh-aggarwal-a48191190/">Linkedin</a>
 
