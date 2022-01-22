@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-## I am Rudraksh Aggarwal aka ruddi
+## I am Rudraksh Aggarwal
 ![](https://visitor-badge.glitch.me/badge?page_id=ruddi10.ruddi10)
 [![GitHub followers](https://img.shields.io/github/followers/ruddi10.svg?style=social&label=Follow)](https://github.com/ruddi10?tab=followers)
 ### Full stack Web Developer 
